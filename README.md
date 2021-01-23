@@ -10,7 +10,7 @@ This schematic is based on the design available on the Pine64 wiki, see [Pine64 
 
 Included in this project is a KiCad Schematic symbol for the BL602-QFN32, and a KiCad reproduction of the reference schematic provided by Pine64 for the Pinenut-01S V1.01.
 
-![Pinenut-01S v1.01 Schematic](img/pinebut-01s.png?raw=true "Pinenut-01S v1.01")
+![Pinenut-01S v1.01 Schematic](img/pinenut-01s.png?raw=true "Pinenut-01S v1.01")
 ![BL602 QFP32 Schematic Symbol](img/bl602.png?raw=true "BL602 QFP32")
 
 ## Still Todo
