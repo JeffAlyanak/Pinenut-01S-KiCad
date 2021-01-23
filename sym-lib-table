@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BL602_QFN32)(type Legacy)(uri ${KIPRJMOD}/lib/BL602_QFN32.lib)(options "")(descr ""))
+  (lib (name conn_2rows-08pins)(type Legacy)(uri ${KIPRJMOD}/lib/conn_2rows-08pins.lib)(options "")(descr ""))
+)
