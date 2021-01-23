@@ -16,4 +16,4 @@ PCB layout.
 
 ## Notes
 
-This schematic and the pinout libary for the BL602-QFN32 are based on details from early Pine64 documention. Please reach out if you find inconsistencies or errors.
+This schematic and the pinout libary for the BL602-QFN32 are based on details from early Pine64 documentation. Please reach out if you find inconsistencies or errors.
